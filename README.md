@@ -102,17 +102,25 @@ npm run expo start
 ### Use Cases
 
 -🚧 Smart City Road Monitoring
+
 -🚨 Accident Detection & Emergency Response
+
 -⛰️ Disaster Monitoring in Landslide-Prone Areas
+
 -🛰️ Infrastructure Inspection
+
 -🚁 Drone-Based Surveillance Systems
 
 ### Future Enhancements
 
 -📍 GPS-based hazard mapping
+
 -🔔 Real-time alert notifications
+
 -🧠 Edge AI processing directly on drones
+
 -☁️ Cloud-based analytics dashboard
+
 
 
 Author
