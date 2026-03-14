@@ -101,26 +101,20 @@ npm run expo start
 
 ### Screenshots
 
-Use Cases
+
+### Use Cases
 
 🚧 Smart City Road Monitoring
-
 🚨 Accident Detection & Emergency Response
-
 ⛰️ Disaster Monitoring in Landslide-Prone Areas
-
 🛰️ Infrastructure Inspection
-
 🚁 Drone-Based Surveillance Systems
 
-Future Enhancements
+### Future Enhancements
 
 📍 GPS-based hazard mapping
-
 🔔 Real-time alert notifications
-
 🧠 Edge AI processing directly on drones
-
 ☁️ Cloud-based analytics dashboard
 
 
@@ -129,7 +123,3 @@ Author
 Abhishek Yadav
 
 Major Project – Guardian: AI-Based Disaster & Road Hazard Detection System
-📊 Historical data analysis for predictive insights
-## Installation & Setup
-
-### 1️⃣
