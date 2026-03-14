@@ -99,9 +99,6 @@ cd Guardian
 npm run expo start
 ```
 
-### Screenshots
-
-
 ### Use Cases
 
 🚧 Smart City Road Monitoring
